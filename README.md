@@ -11,6 +11,7 @@
 ## Audio Software
 * [Audacity](https://www.audacityteam.org/): The best open source free audio editing software. (PC | Mac | Linux)
 * **GarageBand**: GarageBand for audio production (Mac).
+* [QuietTake Noise Remover](https://noiseremover.site): Free browser noise reduction for speech clips; audio is processed locally. (Web)
 
 
 ## Directories
